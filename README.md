@@ -5,6 +5,14 @@
   </br>Software Developer
 </em></p>
 
+### A little more about me...
+```javascript
+const bomb = {
+  code: [Javascript, HTML, CSS, C, C++, C#, Python, Java, X++],
+  tools: [VueJs, NuxtJs, ASP.NET],
+  architecture: ["MVC", "microservices"]
+}
+```
 
 <!---
 emu479p01/emu479p01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
