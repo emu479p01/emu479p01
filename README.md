@@ -9,8 +9,8 @@
 ```javascript
 const bomb = {
   code: [Javascript, HTML, CSS, C, C++, C#, Python, Java, X++],
-  tools: [VueJs, NuxtJs, ASP.NET],
-  architecture: ["MVC", "microservices"]
+  tools: [VueJs, NuxtJs, ASP.NET, "MAUI", "Tailwind"],
+  architecture: ["MVC", "microservices", "MVVM"]
 }
 ```
 
