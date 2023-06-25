@@ -1,18 +1,22 @@
-<h2> Hi, I'm Chaiyaporn Santangjai (Bomb)!</h2>
-<p><em>Production Design and Materials Engineering at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
-  </br>Microsoft Dynamics 365 Finance and Operations Consultant at <a href="https://www.innovizsolutions.com/">Innoviz solutions</a>
-  </br>Technical Consultant
-  </br>Software Developer
-</em></p>
+## Hi, I'm Emuzabies 👋
+* [Microsoft Dynamics 365 Finance and Operations](https://dynamics.microsoft.com/en-us/) and [Power Platform](https://powerplatform.microsoft.com/en-us/) Consultant at <a href="https://www.innovizsolutions.com/">Innoviz solutions</a>
+* Co-founder [doxbev](https://github.com/doxbev)
+* Founder [Stonk](https://github.com/stonk-dev)
+* Technical Consultant
+* Software Developer
+* M.Eng. (Robotics and Computational Intelligence Systems) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
+* B.Eng. (Production Design and Materials Engineering) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
 
-### A little more about me...
+![](https://github-readme-stats.vercel.app/api?username=emu479p01&theme=dark&show_icons=true)
+
+<!--### A little more about me...
 ```javascript
 const bomb = {
   code: [Javascript, HTML, CSS, C, C++, C#, Python, Java, X++],
   tools: [VueJs, NuxtJs, ASP.NET, "MAUI", "Tailwind"],
   architecture: ["MVC", "microservices", "MVVM"]
 }
-```
+```-->
 
 <!---
 emu479p01/emu479p01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
