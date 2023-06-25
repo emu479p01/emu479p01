@@ -1,4 +1,9 @@
+<p align="center">
+<img src="https://media.tenor.com/doUcitxR2acAAAAC/rick-and-morty-smirk.gif">
+</p>
+
 ## Hi, I'm Emuzabies 👋
+
 * [Microsoft Dynamics 365 Finance and Operations](https://dynamics.microsoft.com/en-us/) and [Power Platform](https://powerplatform.microsoft.com/en-us/) Consultant at <a href="https://www.innovizsolutions.com/">Innoviz solutions</a>
 * Co-founder [doxbev](https://github.com/doxbev)
 * Founder [Stonk](https://github.com/stonk-dev)
@@ -6,6 +11,8 @@
 * Software Developer
 * M.Eng. (Robotics and Computational Intelligence Systems) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
 * B.Eng. (Production Design and Materials Engineering) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
+
+## Noob stats
 
 ![](https://github-readme-stats.vercel.app/api?username=emu479p01&theme=dark&show_icons=true)
 
