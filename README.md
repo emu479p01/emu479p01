@@ -12,10 +12,6 @@
 * M.Eng. (Robotics and Computational Intelligence Systems) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
 * B.Eng. (Production Design and Materials Engineering) at <a href="https://www.kmitl.ac.th/">King Mongkut's Institute of Technology Ladkrabang</a>
 
-## Noob stats
-
-![](https://github-readme-stats.vercel.app/api?username=emu479p01&theme=dark&show_icons=true)
-
 <!--### A little more about me...
 ```javascript
 const bomb = {
